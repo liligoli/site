@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0c2a2ef-a971-4000-8de3-aa92714a5a29" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vLCQFLtJlBbI5pIKbiRHYyPVSh" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp3\htdocs\learnbootstrap\img" />
+      <recent name="C:\xampp3\htdocs\learnbootstrap" />
+      <recent name="C:\xampp3\htdocs\learnbootstrap\Fonts" />
+      <recent name="C:\xampp3\htdocs\learnbootstrap\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0c2a2ef-a971-4000-8de3-aa92714a5a29" name="Default Changelist" comment="" />
+      <created>1626331963947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626331963947</updated>
+      <workItem from="1626331965955" duration="7055000" />
+      <workItem from="1626522534211" duration="20000" />
+      <workItem from="1626589398557" duration="3090000" />
+      <workItem from="1626596610582" duration="517000" />
+      <workItem from="1626679463366" duration="1813000" />
+      <workItem from="1626938574914" duration="4458000" />
+      <workItem from="1627042778600" duration="616000" />
+      <workItem from="1627101338455" duration="598000" />
+      <workItem from="1628320710861" duration="1091000" />
+      <workItem from="1628405728264" duration="23109000" />
+      <workItem from="1628576824639" duration="4315000" />
+      <workItem from="1628686604598" duration="75000" />
+      <workItem from="1628694727391" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

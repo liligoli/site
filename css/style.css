@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'vazir';
+    src: url("../Fonts/Vazir.eot");
+    src: url("../Fonts/Vazir.eot?#iefix") format("embedded-opentype"),
+    url("../Fonts/Vazir.woff2") format("woff2"),
+    url("../Fonts/Vazir.ttf") format("woff"),
+    url("../Fonts/Vazir.woff")format("truetype");
+
+}
+@font-face {
+    font-family:'Niconne-Regular';/*تعریف یک نام برای فونت*/
+    src:url('../Fonts/Niconne-Regular.ttf');/*اکسپلورر 9 به بعد*/
+
+url('fonts/Niconne-Regular.ttf') format('truetype');
+
+
+}
+body{
+    font-family: "vazir"!important;
+}
+.txtcolor{
+    font-family: "Niconne-Regular";
+    color:#e7008a!important;
+    font-size:2rem;
+}
+.txt{
+    color: #e7008a!important;
+}
+.bgcolor{
+    color:#e7008a ;
+    border-color:#e7008a ;
+}
+.bgcolor:hover{
+    background-color: #e7008a ;
+}
+.icon{
+    background-color:#ebeafb ;
+    padding: 15px;
+    border-radius: 15px;
+    display: inline-flex;
+    color:  #e7008a;
+}
+.card-primary{
+    background-color: #1b2a4e;
+    color: white;
+}
+.bg-main{
+    background-color:#ebeafb ;
+}
+.bgbtn{
+    color: white;
+    border-color: white;
+}
+.bgbtn:hover{
+    background-color: white;
+    color:#e7008a ;
+}
+.footer-link {
+    text-decoration: none;
+    color: black;
+}
+.footer-link:hover {
+
+    color: black;
+}
+.footer-header{
+    border-bottom: 3px solid;
+    height: 35px;
+}
+
